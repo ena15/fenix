@@ -448,7 +448,7 @@ namespace fenix
             {
               //Show Gameover Message Box and exit game
                 gameover.Play();
-                MessageBox(new IntPtr(0), string.Format("GAME OVER, You drunk {0} deciliters!",(int)player.Points), "MessageBox title", 0);
+                MessageBox(new IntPtr(0), string.Format("GAME OVER, You've drank {0} deciliters!",(int)player.Points), "MessageBox title", 0);
                 this.Exit();
             }
         }
