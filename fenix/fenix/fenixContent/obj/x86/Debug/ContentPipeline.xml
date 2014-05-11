@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Options>None</Options>
       <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2014-05-11T14:13:52.1160937+02:00</Time>
+      <Time>2014-05-11T15:53:47.7630251+02:00</Time>
     </Item>
     <Item>
       <Source>Bullet.jpg</Source>
@@ -18,30 +18,6 @@
       <Time>2014-05-11T14:13:52.104093+02:00</Time>
     </Item>
     <Item>
-      <Source>mug1.jpg</Source>
-      <Name>mug1</Name>
-      <Importer>TextureImporter</Importer>
-      <Options>None</Options>
-      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug1.xnb</Output>
-      <Time>2014-05-11T14:13:52.157096+02:00</Time>
-    </Item>
-    <Item>
-      <Source>mug.png</Source>
-      <Name>mug</Name>
-      <Importer>TextureImporter</Importer>
-      <Options>None</Options>
-      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb</Output>
-      <Time>2014-05-11T14:13:52.1530958+02:00</Time>
-    </Item>
-    <Item>
-      <Source>enemy.jpg</Source>
-      <Name>enemy</Name>
-      <Importer>TextureImporter</Importer>
-      <Options>None</Options>
-      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\enemy.xnb</Output>
-      <Time>2014-05-11T14:13:52.1200939+02:00</Time>
-    </Item>
-    <Item>
       <Source>myfont.spritefont</Source>
       <Name>myfont</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -49,6 +25,33 @@
       <Options>None</Options>
       <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb</Output>
       <Time>2014-05-11T14:13:52.1600962+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bowlOfpeanuts.png</Source>
+      <Name>bowlOfpeanuts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\bowlOfpeanuts.xnb</Output>
+      <Time>2014-05-11T16:07:09.5818865+02:00</Time>
+    </Item>
+    <Item>
+      <Source>peanutbutter.png</Source>
+      <Name>peanutbutter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\peanutbutter.xnb</Output>
+      <Time>2014-05-11T16:02:37.3073133+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mug.png</Source>
+      <Name>mug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb</Output>
+      <Time>2014-05-11T15:55:22.6984551+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

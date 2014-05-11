@@ -89,24 +89,30 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="mug1.jpg">
-      <Name>mug1</Name>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="myfont.spritefont">
       <Name>myfont</Name>
       <Processor>FontDescriptionProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="mug.png">
-      <Name>mug</Name>
+    <Compile Include="bowlOfpeanuts.png">
+      <Name>bowlOfpeanuts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="enemy.jpg">
-      <Name>enemy</Name>
+    <Compile Include="peanutbutter.png">
+      <Name>peanutbutter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="mug.png">
+      <Name>mug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />

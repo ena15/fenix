@@ -26,7 +26,7 @@ namespace fenix
         public PowerUp(GameLevel game)
         {
             this.Vx =(float) game.rand.NextDouble() * 2-1;
-            this.texture = game.Content.Load<Texture2D>("mug1");
+            this.texture = game.Content.Load<Texture2D>("peanutbutter");
             this.X = (float)(game.rand.NextDouble() * (game.GraphicsDevice.Viewport.Width - Constants.PLAYER_WIDTH));
             this.Y = -Constants.PLAYER_WIDTH;
             this.Width = Constants.PLAYER_WIDTH;
