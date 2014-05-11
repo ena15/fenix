@@ -33,18 +33,18 @@ Aжурирањето се врши во методот:
 Во прилог се дадени неколку слики од играта и од нејзините ресурси:
 
 Куршум:
-https://github.com/ena15/fenix/blob/master/graphics/Bullet.png
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/Bullet.png)
 
 Непријател:
-https://github.com/ena15/fenix/blob/master/graphics/mug.png
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/mug.png)
 
 Играч:
-https://github.com/ena15/fenix/blob/master/graphics/bowlOfpeanuts.png
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/bowlOfpeanuts.png)
 
 PowerUp:
-https://github.com/ena15/fenix/blob/master/graphics/peanutbutter.png
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/peanutbutter.png)
 
 ScreenShots:
-https://github.com/ena15/fenix/blob/master/graphics/screenShot1.PNG
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/screenShot1.PNG)
 
-https://github.com/ena15/fenix/blob/master/graphics/screenShot2.PNG
+![ScreenShot](https://github.com/ena15/fenix/blob/master/graphics/screenShot2.PNG)
