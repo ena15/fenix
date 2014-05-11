@@ -28,8 +28,8 @@ namespace fenix
         public Bullet(GameLevel game,Player p)
         {
             this.texture = game.Content.Load<Texture2D>("Bullet");
-            this.Width = 5+p.Power;
-            this.Height = 5+p.Power;
+            this.Width = 5+(float)Math.Pow((p.Power-4),2);
+            this.Height = 5+(float)Math.Pow((p.Power-4),2);
             this.X = p.X + p.Width / 2-this.Width/2;
             this.Y = p.Y + p.Height / 2-this.Height/2;
             this.Power = p.Power;

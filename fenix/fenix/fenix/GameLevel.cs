@@ -132,10 +132,10 @@ namespace fenix
            
             spriteBatch = new SpriteBatch(GraphicsDevice);
             font = this.Content.Load<SpriteFont>("myfont");
-            //shoot = this.Content.Load<SoundEffect>("shoot_sound");
-            //powerup = this.Content.Load<SoundEffect>("powerup_sound");
-            //destroy = this.Content.Load<SoundEffect>("destroy_sound");
-            //gameover = this.Content.Load<SoundEffect>("gameover_sound");
+            shoot = this.Content.Load<SoundEffect>("shoot");
+            powerup = this.Content.Load<SoundEffect>("hit");
+            destroy = this.Content.Load<SoundEffect>("destroy");
+            gameover = this.Content.Load<SoundEffect>("gameover");
         }
 
         /// <summary>
@@ -357,11 +357,11 @@ namespace fenix
             // generate frequency of enemies based on game Time
             if(gameTime.TotalGameTime.TotalSeconds>Constants.LEVEL_TIME)
             {
-                enemySpeed=60;
+                enemySpeed=80;
             }
             else
             {
-                enemySpeed=1000-gameTime.TotalGameTime.TotalMilliseconds/120.0;
+                enemySpeed=1000-gameTime.TotalGameTime.TotalMilliseconds/180.0;
             }
 
             if (lastEnemy == null)
@@ -397,7 +397,7 @@ namespace fenix
             // TODO: Add your drawing code here
             if(GameState==State.Pause){
                 spriteBatch.Begin();
-                spriteBatch.DrawString(font, "PAUSE", new Vector2(300, 200), Color.Red);
+                spriteBatch.DrawString(font, "BATHROOM BREAK", new Vector2(250, 200), Color.Red);
                 
                 spriteBatch.End();
             }
@@ -432,14 +432,14 @@ namespace fenix
                 spriteBatch.Draw(player.texture, new Rectangle((int)player.X, (int)player.Y, (int)player.Width, (int)player.Height), Color.White);
 
 
-                spriteBatch.DrawString(font, String.Format("Points: {0}", (int)player.Points), new Vector2(10, 10), Color.White);
+                spriteBatch.DrawString(font, String.Format("Beer: {0}", (int)player.Points), new Vector2(10, 10), Color.White);
                 spriteBatch.DrawString(font, String.Format("Power: {0}", (int)player.Power), new Vector2(250, 10), Color.White);
                 Color healthColor;
                 if(player.Health>10)
                     healthColor=Color.White;
                 else
                     healthColor=Color.Red;
-                spriteBatch.DrawString(font, String.Format("Health: {0}", (int)player.Health), new Vector2(500, 10), healthColor);
+                spriteBatch.DrawString(font, String.Format("Capacity: {0}", (int)player.Health), new Vector2(500, 10), healthColor);
                 spriteBatch.DrawString(font, String.Format("Time: {0}:{1}", (int)gameTime.TotalGameTime.TotalMinutes, (int)gameTime.TotalGameTime.Seconds), new Vector2(10, 460), Color.Blue);
                 spriteBatch.End();
                 base.Draw(gameTime);
@@ -448,7 +448,7 @@ namespace fenix
             {
               //Show Gameover Message Box and exit game
                 gameover.Play();
-                MessageBox(new IntPtr(0), string.Format("GAME OVER, You scored {0} points!",(int)player.Points), "MessageBox title", 0);
+                MessageBox(new IntPtr(0), string.Format("GAME OVER, You drunk {0} deciliters!",(int)player.Points), "MessageBox title", 0);
                 this.Exit();
             }
         }

@@ -21,3 +21,7 @@ C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\fenix.exe
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\fenix.pdb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\bowlOfpeanuts.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\peanutbutter.xnb
+C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\destroy.xnb
+C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\gameover.xnb
+C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\hit.xnb
+C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\shoot.xnb

@@ -1,6 +1,10 @@
 Content\background.xnb
-Content\Bullet.xnb
 Content\myfont.xnb
 Content\bowlOfpeanuts.xnb
 Content\peanutbutter.xnb
 Content\mug.xnb
+Content\Bullet.xnb
+Content\destroy.xnb
+Content\gameover.xnb
+Content\hit.xnb
+Content\shoot.xnb

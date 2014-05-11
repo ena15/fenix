@@ -21,7 +21,7 @@ namespace fenix
         /// <summary>
         /// Average level time (Time in seconds in which enemies achieve full strength)
         /// </summary>
-        public static float LEVEL_TIME = 120f;
+        public static float LEVEL_TIME = 180f;
         /// <summary>
         /// Starting X position of the player rectangle
         /// </summary>
@@ -45,7 +45,7 @@ namespace fenix
         /// <summary>
         /// Frequency of Powerups in seconds
         /// </summary>
-        public static double POWERUP_SPEED=20;
+        public static double POWERUP_SPEED=15;
         /// <summary>
         /// Starting (and minimum) player power
         /// </summary>

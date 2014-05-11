@@ -10,14 +10,6 @@
       <Time>2014-05-11T15:53:47.7630251+02:00</Time>
     </Item>
     <Item>
-      <Source>Bullet.jpg</Source>
-      <Name>Bullet</Name>
-      <Importer>TextureImporter</Importer>
-      <Options>None</Options>
-      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb</Output>
-      <Time>2014-05-11T14:13:52.104093+02:00</Time>
-    </Item>
-    <Item>
       <Source>myfont.spritefont</Source>
       <Name>myfont</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -52,6 +44,51 @@
       <Options>None</Options>
       <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb</Output>
       <Time>2014-05-11T15:55:22.6984551+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2014-05-11T16:22:41.1801709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>destroy.mp3</Source>
+      <Name>destroy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\destroy.xnb</Output>
+      <Time>2014-05-11T16:25:51.8860786+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.mp3</Source>
+      <Name>gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2014-05-11T16:25:51.8990794+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.mp3</Source>
+      <Name>hit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\hit.xnb</Output>
+      <Time>2014-05-11T16:25:51.9230807+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.mp3</Source>
+      <Name>shoot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2014-05-11T16:25:51.9340814+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
