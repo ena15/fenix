@@ -33,7 +33,7 @@ Aжурирањето се врши во методот:
 Во прилог се дадени неколку слики од играта и од нејзините ресурси:
 
 Куршум:
-<img src="https://github.com/ena15/fenix/blob/master/graphics/Bullet.png"/>
+<img src="http://prntscr.com/3i97b3" />
 
 Непријател:
 <img src="https://github.com/ena15/fenix/blob/master/graphics/mug.png"/>
