@@ -33,11 +33,11 @@ namespace fenix
         /// <summary>
         /// Width of player
         /// </summary>
-        public static float PLAYER_WIDTH = 60f;
+        public static float PLAYER_WIDTH = 80f;
         /// <summary>
         /// Height of player
         /// </summary>
-        public static float PLAYER_HEIGHT = 80f;
+        public static float PLAYER_HEIGHT = 60f;
         /// <summary>
         /// Starting player health
         /// </summary>

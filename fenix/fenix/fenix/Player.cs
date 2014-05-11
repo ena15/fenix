@@ -24,7 +24,7 @@ namespace fenix
         {
 
             Points = 0;
-            texture = game.Content.Load<Texture2D>("mug");
+            texture = game.Content.Load<Texture2D>("bowlOfpeanuts");
             this.X = Constants.START_X;
             this.Y = Constants.START_Y;
             this.Width = Constants.PLAYER_WIDTH;

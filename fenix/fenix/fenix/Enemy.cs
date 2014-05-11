@@ -23,11 +23,11 @@ namespace fenix
         {
             this.Vy = (float)game.rand.NextDouble() * 7+1;
             this.Vx = (float)game.rand.NextDouble() * 2 - 1;
-            this.texture = game.Content.Load<Texture2D>("enemy");
+            this.texture = game.Content.Load<Texture2D>("mug");
             this.X = (float)(game.rand.NextDouble() * (game.GraphicsDevice.Viewport.Width - Constants.PLAYER_WIDTH));
             this.Y = -Constants.PLAYER_WIDTH;
-            this.Width = (float)(Constants.PLAYER_WIDTH + time.TotalGameTime.TotalSeconds / 30.0f);
-            this.Height = (float)(Constants.PLAYER_WIDTH + time.TotalGameTime.TotalSeconds / 30.0f);
+            this.Width = (float)(Constants.PLAYER_WIDTH + time.TotalGameTime.TotalSeconds / 5.0f);
+            this.Height = (float)(Constants.PLAYER_WIDTH + time.TotalGameTime.TotalSeconds / 5.0f);
             this.Power = (float)(Constants.PLAYER_POWER + time.TotalGameTime.TotalSeconds / 20);
             this.Health = (float)(1 + time.TotalGameTime.TotalSeconds / 20);
         }

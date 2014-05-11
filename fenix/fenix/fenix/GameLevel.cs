@@ -132,10 +132,10 @@ namespace fenix
            
             spriteBatch = new SpriteBatch(GraphicsDevice);
             font = this.Content.Load<SpriteFont>("myfont");
-            shoot = this.Content.Load<SoundEffect>("shoot_sound");
-            powerup = this.Content.Load<SoundEffect>("powerup_sound");
-            destroy = this.Content.Load<SoundEffect>("destroy_sound");
-            gameover = this.Content.Load<SoundEffect>("gameover_sound");
+            //shoot = this.Content.Load<SoundEffect>("shoot_sound");
+            //powerup = this.Content.Load<SoundEffect>("powerup_sound");
+            //destroy = this.Content.Load<SoundEffect>("destroy_sound");
+            //gameover = this.Content.Load<SoundEffect>("gameover_sound");
         }
 
         /// <summary>
