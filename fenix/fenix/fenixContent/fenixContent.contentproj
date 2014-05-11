@@ -96,6 +96,7 @@
   <ItemGroup>
     <Compile Include="myfont.spritefont">
       <Name>myfont</Name>
+      <Processor>FontDescriptionProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>

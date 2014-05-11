@@ -1,6 +1,6 @@
 Content\background.xnb
 Content\Bullet.xnb
-Content\myfont.xnb
 Content\mug1.xnb
 Content\mug.xnb
 Content\enemy.xnb
+Content\myfont.xnb
