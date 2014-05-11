@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-05-11T00:08:38.8221182+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.jpg</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2014-05-10T23:47:06.8239096+02:00</Time>
+    </Item>
+    <Item>
+      <Source>myfont.spritefont</Source>
+      <Name>myfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb</Output>
+      <Time>2014-05-11T01:07:52.5588287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mug1.jpg</Source>
+      <Name>mug1</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug1.xnb</Output>
+      <Time>2014-05-11T00:30:40.6442279+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mug.png</Source>
+      <Name>mug</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb</Output>
+      <Time>2014-05-11T01:21:30.5977007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.jpg</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2014-05-11T02:08:43.2517801+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Elena\Documents\fenix\fenix\fenix\fenixContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Elena\Documents\fenix\fenix\fenix\fenixContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-29T12:49:47.7886301+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

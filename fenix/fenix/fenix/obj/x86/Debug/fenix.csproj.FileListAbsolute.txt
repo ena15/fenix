@@ -1,0 +1,11 @@
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\fenix.exe
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\fenix.pdb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\fenix.exe
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\fenix.pdb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\background.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug1.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\enemy.xnb
