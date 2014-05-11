@@ -7,47 +7,88 @@
       <Importer>TextureImporter</Importer>
       <Options>None</Options>
       <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2014-05-11T00:08:38.8221182+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Bullet.jpg</Source>
-      <Name>Bullet</Name>
-      <Importer>TextureImporter</Importer>
-      <Options>None</Options>
-      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb</Output>
-      <Time>2014-05-10T23:47:06.8239096+02:00</Time>
+      <Time>2014-05-11T16:20:17.7087504+02:00</Time>
     </Item>
     <Item>
       <Source>myfont.spritefont</Source>
       <Name>myfont</Name>
       <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb</Output>
       <Time>2014-05-11T01:07:52.5588287+02:00</Time>
     </Item>
     <Item>
-      <Source>mug1.jpg</Source>
-      <Name>mug1</Name>
+      <Source>bowlOfpeanuts.png</Source>
+      <Name>bowlOfpeanuts</Name>
       <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug1.xnb</Output>
-      <Time>2014-05-11T00:30:40.6442279+02:00</Time>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\bowlOfpeanuts.xnb</Output>
+      <Time>2014-05-11T16:20:17.7127488+02:00</Time>
+    </Item>
+    <Item>
+      <Source>peanutbutter.png</Source>
+      <Name>peanutbutter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\peanutbutter.xnb</Output>
+      <Time>2014-05-11T16:20:17.7247521+02:00</Time>
     </Item>
     <Item>
       <Source>mug.png</Source>
       <Name>mug</Name>
       <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb</Output>
       <Time>2014-05-11T01:21:30.5977007+02:00</Time>
     </Item>
     <Item>
-      <Source>enemy.jpg</Source>
-      <Name>enemy</Name>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
       <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\enemy.xnb</Output>
-      <Time>2014-05-11T02:08:43.2517801+02:00</Time>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2014-05-11T16:40:52.5480782+02:00</Time>
+    </Item>
+    <Item>
+      <Source>destroy.mp3</Source>
+      <Name>destroy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\destroy.xnb</Output>
+      <Time>2014-05-11T16:40:52.5520778+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.mp3</Source>
+      <Name>gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2014-05-11T16:40:52.5640777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.mp3</Source>
+      <Name>hit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\hit.xnb</Output>
+      <Time>2014-05-11T16:40:52.5840795+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.mp3</Source>
+      <Name>shoot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2014-05-11T16:40:52.5920814+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

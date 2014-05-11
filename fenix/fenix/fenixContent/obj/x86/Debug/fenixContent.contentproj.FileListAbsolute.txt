@@ -1,1 +1,2 @@
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenixContent\obj\x86\Debug\fenixContent.contentprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenixContent\obj\x86\Debug\fenixContent.contentprojResolveAssemblyReference.cache

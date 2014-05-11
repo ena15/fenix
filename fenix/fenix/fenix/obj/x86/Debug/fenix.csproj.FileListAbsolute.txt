@@ -7,8 +7,6 @@ C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\backgroun
 C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb
 C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug.xnb
 C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb
-C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\mug1.xnb
-C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\enemy.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\background.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\Bullet.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\myfont.xnb
@@ -25,3 +23,10 @@ C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\destroy.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\gameover.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\hit.xnb
 C:\Users\AMC\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\shoot.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\bowlOfpeanuts.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\peanutbutter.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\destroy.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\hit.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\bin\x86\Debug\Content\shoot.xnb
+C:\Users\Elena\Documents\fenix\fenix\fenix\fenix\obj\x86\Debug\fenix.csprojResolveAssemblyReference.cache
